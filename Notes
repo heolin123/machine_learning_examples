@@ -1,0 +1,9 @@
+Współczynnik determinacji R^2
+0,0 - 0,5 - dopasowanie niezadowalające
+0,5 - 0,6 - dopasowanie słabe
+0,6 - 0,8 - dopasowanie zadowalające
+0,8 - 0,9 - dopasowanie dobre
+0,9 - 1,0 - dopasowanie bardzo dobre
+
+
+Rozkład Poissona zwykle daje dobry model zliczeń np. liczby odwiedzających. `Rozkład Poissona należy do rodziny rozkładów wykładniczych, więc możemy zastosować uogólniony model liniowy (GLM). 
